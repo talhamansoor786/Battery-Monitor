@@ -20,7 +20,7 @@
 ### 🔹 Build from Source
 ```bash
 pip install psutil pystray pillow pyinstaller
-git clone https://github.com/[YOUR_USERNAME]/battery-monitor
+git clone https://github.com/talhamansoor786/battery-monitor
 cd battery-monitor
 pyinstaller --onefile --noconsole battery_monitor.py
 ```
